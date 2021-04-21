@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yjk0725/GitHubIntegration/_apis/build/status/Young-Kim-1004.ContosoAir?branchName=master)](https://dev.azure.com/yjk0725/GitHubIntegration/_build/latest?definitionId=1&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
